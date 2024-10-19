@@ -23,6 +23,7 @@
 - Hi I'm Rajkumar BM! (https://github.com/RajkumarBM-1963/)
 - Hi i am Algo
 - Hello I am Tony
+- 
 - heyy you! This is [Jey](https://github.com/jey-exp).
 - Halloechen im phil :P
 - Hi i am నిRमல் (https://github.com/NirmalPuttamon)
@@ -55,6 +56,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Hi, [Nitesh Jadhav](https://github.com/NitZZ057) here. Please feel free to connect.
 Hi, I'm aashik here
 Hello ,I'm Abraham (https://github.com/Abraham-Dagnew)
+Hi, I'm Darnel Castor
 Hi im Sebastian Heredia(kid ash)
 I am Adnaan (https://github.com/Valley-15)
 - Hallo! I am HawkerX and this is my first contribution!!!!
